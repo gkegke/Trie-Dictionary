@@ -5,4 +5,4 @@ be searched always.
 
 output.mov
 
-<video src='output.mov' />
+<video src='output.mov'></video>
