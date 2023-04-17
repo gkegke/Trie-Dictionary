@@ -4,3 +4,5 @@ Uses nice tricks such as getting matches as generators, so the full tree doesn't
 be searched always.
 
 output.mov
+
+<video src='output.mov' />
